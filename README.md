@@ -9,7 +9,7 @@ A simple blog API built with Django REST Framework.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/django-blog-api.git
+git@github.com:rashidareeba/django-blog-api.git
 cd django-blog-api
 ```
 
