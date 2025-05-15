@@ -53,19 +53,12 @@ django-blog-api/
 └── README.md      # This file
 ```
 
-## 🔧 Troubleshooting
-If you get errors:
-1. Make sure all packages are installed
-2. Check your `.env` file exists
-3. Try running migrations again
 
-## 📜 License
-MIT
-```
+![Screenshot from 2025-05-15 16-02-23](https://github.com/user-attachments/assets/82144f2d-6679-4e2d-8bd6-8f3d48dc359d)
+![Screenshot from 2025-05-15 16-02-44](https://github.com/user-attachments/assets/1338adb8-c1bc-4047-b4d8-abec3f703abd)
+![Screenshot from 2025-05-15 16-03-26](https://github.com/user-attachments/assets/99510184-b93f-47bb-b971-c56e13c1b848)
+![Screenshot from 2025-05-15 16-03-41](https://github.com/user-attachments/assets/322adae4-4aa8-4760-9ace-b7f7f4e6905d)
 
-### Key Features of This README:
-1. **Clear Steps** - Numbered setup instructions
-2. **Simple Commands** - Easy to copy-paste
-3. **Troubleshooting** - Common solutions
-4. **Good Formatting** - Uses markdown headings and code blocks
-5. **Project Overview** - Quick feature list
+
+
+
